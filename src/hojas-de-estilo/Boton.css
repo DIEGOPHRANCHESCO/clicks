@@ -1,0 +1,26 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-size: 35px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  color: rgb(37, 22, 22);
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+
+}
+
+button:hover{
+background-color: rgb(11, 3, 83);
+color: rgb(255, 255, 255);
+}
+
+.boton-clic{
+  background-color: #020fc5;
+  
+}
+
+.boton-reiniciar{
+  background-color:  #020fc5;
+}
